@@ -1,4 +1,4 @@
-# HR-Case-Study-Absenteeism-Insights-and-Performance-Improvement
+# Absenteeism Insights and Performance Improvement Project
 
 ## Overview
 This project aims to address a drop in team performance within a medium-sized company by investigating and mitigating absenteeism. The team utilized PowerBI and DAX to analyze data and generate insights. Unfortunately, due to the nature of the project, code cannot be shared publicly.
