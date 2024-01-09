@@ -1,8 +1,7 @@
 # Absenteeism Insights and Performance Improvement Project
 
 ## Overview
-This project aims to address a drop in team performance within a medium-sized company by investigating and mitigating absenteeism. The team utilized PowerBI and DAX to analyze data and generate insights. Unfortunately, due to the nature of the project, code cannot be shared publicly.
-
+This project aims to address a drop in team performance within a medium-sized company by investigating and mitigating absenteeism. The team utilized PowerBI and DAX to analyze data and generate insights. 
 ## Context
 The manager identified absenteeism as a significant factor affecting team performance. The team conducted a thorough investigation to identify trends and causes of absenteeism to implement effective preventive measures.
 
@@ -55,7 +54,7 @@ Special thanks to the project team members for their contributions:
 - Quinn Grace
 - Shedrack Udeh
 - Tebatso Malotane
-- Toka Ramakau (Head Designer)
+
 
 ## Note
 Due to the sensitive nature of the project, code cannot be shared publicly.
